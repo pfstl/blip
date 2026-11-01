@@ -28,11 +28,14 @@ terminal and the card disappears by itself. If Blip isn't running, nothing chang
 
 ## Installation
 
-Blip is a **Copilot CLI plugin**:
+Blip is a **Copilot CLI plugin**, available from the [Sidekicks](https://github.com/pfstl/sidekicks) marketplace:
 
 ```sh
-copilot plugin install pfstl/blip
+copilot plugin marketplace add pfstl/sidekicks
+copilot plugin install blip@sidekicks
 ```
+
+Or install it straight from this repo: `copilot plugin install pfstl/blip`.
 
 Then start a new Copilot session. On first launch the plugin's extension checks whether the Blip app is there.
 If not, it **builds the app once, locally**, from the plugin's source (about 1–2 minutes, in the background)
