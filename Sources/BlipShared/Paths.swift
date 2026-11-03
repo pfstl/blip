@@ -2,7 +2,7 @@ import Foundation
 
 public enum BlipInfo {
     /// Must match the version in .plugin/plugin.json – that's how the extension knows the app needs a rebuild.
-    public static let version = "0.3.1"
+    public static let version = "0.4.0"
     public static let appName = "Blip"
     public static let bundleId = "io.github.blip-agents"
     public static let launchAgentLabel = "io.github.blip-agents"

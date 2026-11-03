@@ -1,6 +1,6 @@
 {
   "name": "blip",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "A little blip on your radar when your agent needs you: see what your Copilot CLI agents are doing, live in the macOS menu bar, and approve permission requests right from there.",
   "author": {
     "name": "Richard Pfannenstiel"

@@ -1,4 +1,4 @@
-# Blip ◉
+# Blip 👻
 
 **A little blip on your radar when your agent needs you.**
 
@@ -6,13 +6,13 @@ Blip lives in your Mac's menu bar – right next to Bluetooth and Wi-Fi – and 
 **GitHub Copilot CLI** agents are doing, live. When an agent needs permission, you can approve it right from
 the menu bar, whether the terminal is in front or buried behind ten other windows.
 
-| State | Menu bar icon |
+| State | Blip, the little ghost in your menu bar |
 |---|---|
-| Idle | a calm radar blip (monochrome) |
-| Working | three bouncing dots (monochrome) |
-| Needs you | an orange hand, waving |
-| Done | a green checkmark pops in until you've seen it |
-| Error | a red warning triangle shakes its head |
+| Idle | Blip sleeps, with a little "z" (monochrome) |
+| Working | Blip floats, looks around and leaves a pulsing trail (monochrome) |
+| Needs you | orange Blip with big eyes hops and waves at you |
+| Done | green Blip with happy eyes pops in with a sparkle, until you've seen it |
+| Error | red Blip with x-eyes shakes its head |
 
 Click the icon to see all sessions. Click a session for its **live feed**: your prompt, every command with its
 output, permission requests and the agent's answer. **Jump to Session** brings the exact terminal tab to the front.
